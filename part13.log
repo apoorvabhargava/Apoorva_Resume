@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.25)  27 MAY 2015 16:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.25)  27 MAY 2015 16:11
 entering extended mode
-**part12.tex
-(part12.tex
+**part13.tex
+(part13.tex
 LaTeX2e <2014/05/01>
 Babel <3.9l> and hyphenation patterns for 68 languages loaded.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
@@ -80,7 +80,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen112
 \Gm@dimlist=\toks15
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg")) (part12.aux)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg")) (part13.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
@@ -175,7 +175,7 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./Apoorva0006.jpg>] [2] (
-part12.aux) ) 
+part13.aux) ) 
 Here is how much of TeX's memory you used:
  1618 strings out of 493698
  21996 string characters out of 3144386
@@ -189,7 +189,7 @@ Here is how much of TeX's memory you used:
 /Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiK
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on part12.pdf (2 pages, 110474 bytes).
+Output written on part13.pdf (2 pages, 110585 bytes).
 PDF statistics:
  30 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
