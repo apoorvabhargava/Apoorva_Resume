@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.25)  27 MAY 2015 10:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (MiKTeX 2.9) (preloaded format=pdflatex 2015.5.25)  27 MAY 2015 15:35
 entering extended mode
-**part3.tex
-(part3.tex
+**part4.tex
+(part4.tex
 LaTeX2e <2014/05/01>
 Babel <3.9l> and hyphenation patterns for 68 languages loaded.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
@@ -80,7 +80,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen112
 \Gm@dimlist=\toks15
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg")) (part3.aux)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg")) (part4.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
@@ -152,23 +152,23 @@ File: Apoorva0006.jpg Graphic file (type jpg)
 Package pdftex.def Info: Apoorva0006.jpg used on input line 16.
 (pdftex.def)             Requested size: 55.70854pt x 81.6055pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--29
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
 []$\OT1/cmr/m/n/10 67\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 7$(upto $1[]$
  []
 
 
-Overfull \hbox (40.01082pt too wide) in paragraph at lines 24--35
+Overfull \hbox (40.01082pt too wide) in paragraph at lines 23--36
 [][]  
  []
 
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./Apoorva0006.jpg>]
-(part3.aux) ) 
+(part4.aux) ) 
 Here is how much of TeX's memory you used:
  1601 strings out of 493698
  21698 string characters out of 3144386
- 85616 words of memory out of 3000000
+ 86616 words of memory out of 3000000
  4962 multiletter control sequences out of 15000+200000
  3948 words of font info for 15 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -177,7 +177,7 @@ Here is how much of TeX's memory you used:
 .pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:
 /Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program 
 Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on part3.pdf (1 page, 95187 bytes).
+Output written on part4.pdf (1 page, 95385 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
